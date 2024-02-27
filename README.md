@@ -1,9 +1,9 @@
 # HalflifeSimulation
-Just for question #7
+Just for question #7.
 
 ## Description
 
-Simulates the decay of a material given a set of variables
+Simulates the decay of a material given a set of variables.
 
 ## Authors
 
